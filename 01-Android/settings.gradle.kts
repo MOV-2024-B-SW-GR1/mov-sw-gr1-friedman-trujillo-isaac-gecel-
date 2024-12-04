@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "gr2sw2024b_sabj"
+rootProject.name = "01-Android"
 include(":app")
